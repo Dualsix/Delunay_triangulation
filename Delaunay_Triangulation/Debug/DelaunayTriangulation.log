@@ -1,0 +1,17 @@
+﻿  Delaunay.cpp
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(50): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(51): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\dualsix\desktop\delaunay_triangulation\delaunay.cpp(107): warning C4101: 'r': unreferenced local variable
+  DelaunayTriangulation.vcxproj -> C:\Users\Dualsix\Desktop\Delaunay_Triangulation\Debug\DelaunayTriangulation.exe
+  DelaunayTriangulation.vcxproj -> C:\Users\Dualsix\Desktop\Delaunay_Triangulation\Debug\DelaunayTriangulation.pdb (Full PDB)

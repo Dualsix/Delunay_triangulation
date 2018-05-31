@@ -1,0 +1,22 @@
+﻿  Delaunay.cpp
+Delaunay.cpp(10): warning C4018: '<': signed/unsigned mismatch
+Delaunay.cpp(15): warning C4018: '<': signed/unsigned mismatch
+Delaunay.cpp(34): warning C4018: '<': signed/unsigned mismatch
+Delaunay.cpp(49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Delaunay.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Delaunay.cpp(50): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Delaunay.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Delaunay.cpp(51): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Delaunay.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Delaunay.cpp(66): warning C4101: 'r': unreferenced local variable
+  main.cpp
+  Mesh.cpp
+Mesh.cpp(28): warning C4018: '<': signed/unsigned mismatch
+Mesh.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  Parser.cpp
+Parser.cpp(10): warning C4101: 'v': unreferenced local variable
+  Generating code
+  All 323 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DelaunayTriangulation.vcxproj -> C:\Users\Dualsix\Desktop\Delaunay_Triangulation\Release\DelaunayTriangulation.exe
+  DelaunayTriangulation.vcxproj -> C:\Users\Dualsix\Desktop\Delaunay_Triangulation\Release\DelaunayTriangulation.pdb (Full PDB)
